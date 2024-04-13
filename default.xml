@@ -47,8 +47,7 @@
           review="review.lineageos.org"/>
 
   <remote name="gl-incom-ssh"
-          fetch="ssh://git@gitlab.incom.co:22
-          /"/>
+          fetch="ssh://git@gitlab.incom.co:22/"/>
   <remote
     name="gl-ssh"
     fetch="ssh://git@gitlab.com:22/"/>
@@ -1130,7 +1129,7 @@
   <project name="tools/platform-compat" remote="aosp" revision="1dab6d1f96ae96b17a0e9d77f55de0c81a4ada50" upstream="refs/tags/android-14.0.0_r25" dest-branch="refs/tags/android-14.0.0_r25" groups="pdk-cw-fs,pdk-fs,pdk"/>
 
   <include name="snippets/lineageos.xml" />
-  <!-- <include name="snippets/nolens-devices.xml" /> -->
-  <!-- <include name="snippets/oddsolutions.xml" /> -->
+  <include name="snippets/nolens-devices.xml" />
+  <include name="snippets/oddsolutions.xml" />
 
 </manifest>
