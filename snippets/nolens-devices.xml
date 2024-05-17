@@ -35,9 +35,9 @@
   <project name="LineageOS/android_device_motorola_exynos9610-common" path="device/motorola/exynos9610-common" revision="40c1d855420ea8a98d9806b937f53559d6565b6f" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
   <project name="LineageOS/android_device_motorola_kane" path="device/motorola/kane" revision="7333f4d78e8198e98928e52b86893b388b2cccc4" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
   <project name="LineageOS/android_device_motorola_lake" path="device/motorola/lake" revision="74d203d18daf23510717405f7f72f74f89cfc13d" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
-  <project name="LineageOS/android_device_motorola_messi" path="device/motorola/messi" revision="044fe80a60f7518cc9623f174f524577671797c9" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
+  <project name="LineageOS/android_device_motorola_messi" path="device/motorola/messi" revision="7c749cf01f1f79e312595f3b15caa54fe97183f1" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
   <project name="LineageOS/android_device_motorola_msm8998-common" path="device/motorola/msm8998-common" revision="fa9d38aeb016b5e1d992d759324840e54fb55b53" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
-  <project name="LineageOS/android_device_motorola_nash" path="device/motorola/nash" revision="3ae58a611cbfc5586daecafd42d08f4c7eaf1fbb" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
+  <project name="LineageOS/android_device_motorola_nash" path="device/motorola/nash" revision="0ed0bd80da613c2d66571b0ddcca09cc05acc22a" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
   <project name="LineageOS/android_device_motorola_payton" path="device/motorola/payton" revision="0615ddfb397e6c64384e047d75d939497a50b234" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
   <project name="LineageOS/android_device_motorola_troika" path="device/motorola/troika" revision="f2bcfc0f00b23fa07e16277b4c4a7e26f83d38e1" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
   <project name="MikeNG/android_device_osom_ingot" path="device/osom/ingot" remote="private" revision="d8a72d1504053d16bf3d0920a06d35604b9052b5" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
@@ -63,9 +63,9 @@
   <project name="TheMuppets/proprietary_vendor_motorola_exynos9610-common" path="vendor/motorola/exynos9610-common" remote="private" revision="5e99ce0740f8ec9c55eb841afe8a25e5317568b7" upstream="lineage-21" dest-branch="lineage-21"/>
   <project name="TheMuppets/proprietary_vendor_google_taimen" path="vendor/google/taimen" remote="private" revision="20d84c079d9ee44a2daac62942bd9cfd18f4dae2" upstream="lineage-21" dest-branch="lineage-21"/>
   <project name="TheMuppets/proprietary_vendor_google_walleye" path="vendor/google/walleye" remote="private" revision="c73dbd4e170a791f40a10fc528b0c186e97ff484" upstream="lineage-21" dest-branch="lineage-21"/>
-  <project name="TheMuppets/proprietary_vendor_motorola_nash" path="vendor/motorola/nash" remote="private" revision="2250f8db908b0dc094c5b452913d46a873bd1541" upstream="lineage-21" dest-branch="lineage-21"/>
+  <project name="TheMuppets/proprietary_vendor_motorola_nash" path="vendor/motorola/nash" remote="private" revision="3a601b73264c6e7296c5b867d1807147132c2c4d" upstream="lineage-21" dest-branch="lineage-21"/>
   <project name="TheMuppets/proprietary_vendor_motorola_msm8998-common" path="vendor/motorola/msm8998-common" remote="private" revision="0dc2e78f22ff2f731a4ef35658015b538da117da" upstream="lineage-21" dest-branch="lineage-21"/>
-  <project name="TheMuppets/proprietary_vendor_motorola_messi" path="vendor/motorola/messi" remote="private" revision="5fb57db5e6c7110a7aadbbe026e39418a7c46876" upstream="lineage-21" dest-branch="lineage-21"/>
+  <project name="TheMuppets/proprietary_vendor_motorola_messi" path="vendor/motorola/messi" remote="private" revision="10b5882298e2ffa4056dbeac6a7974308cecaeb7" upstream="lineage-21" dest-branch="lineage-21"/>
   <project name="TheMuppets/proprietary_vendor_essential_mata" path="vendor/essential/mata" remote="private" revision="fcef9868921ba2d437181392dfbdaabcd1d0cba2" upstream="lineage-21" dest-branch="lineage-21"/>
   <project name="TheMuppets/proprietary_vendor_google_marlin" path="vendor/google/marlin" remote="private" revision="63587b8231ef44cfbd54f52f966fa66164e7b078" upstream="lineage-21" dest-branch="lineage-21"/>
   <project name="TheMuppets/proprietary_vendor_google_sailfish" path="vendor/google/sailfish" remote="private" revision="d3dc48f5d24bbd3e10eb0172f41f298a4ec17bfe" upstream="lineage-21" dest-branch="lineage-21"/>
