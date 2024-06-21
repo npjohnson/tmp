@@ -1472,9 +1472,9 @@
   
   <contactinfo bugurl="go/repo-bug"/>
 
-  <!-- <include name="snippets/additions.xml" /> -->
-  <!-- <include name="snippets/devices.xml" /> -->
-  <!-- <include name="snippets/gms.xml" /> -->
-  <!-- <include name="snippets/infrastructure.xml" /> -->
-  <!-- <include name="snippets/proprietary.xml" /> -->
+  <include name="snippets/additions.xml" />
+  <include name="snippets/devices.xml" />
+  <include name="snippets/gms.xml" />
+  <include name="snippets/infrastructure.xml" />
+  <include name="snippets/proprietary.xml" />
 </manifest>
