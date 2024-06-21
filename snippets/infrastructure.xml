@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="npjohnson/ods_wiki" path="oddsolutions/wiki" remote="private" revision="a88a43ddf52bd7375d3824cab55ad835ff30b808" upstream="main" dest-branch="main" groups="local::infrastructure"/>
+  <project name="oddsolutions/android/manifests" path="oddsolutions/manifests" remote="gl-ssh" revision="22fa4604e51ef4655d275cbafd8aa27d5835d7f1" upstream="refs/heads/lineage-21.0" dest-branch="refs/heads/lineage-21.0" groups="local::infrastructure"/>
+  <project name="oddsolutions/infrastructure/updater" path="oddsolutions/updater" remote="gl-ssh" revision="736a0d29845311afa1c68139e19dcd384b9fd03b" upstream="master" dest-branch="master" groups="local::infrastructure"/>
+  <project name="oddsolutions/infrastructure/updater" path="oddsolutions/updater-local" remote="gl-ssh" revision="91813be0faeee87b5390d9dc3ea276ea7929aea3" upstream="local" dest-branch="local" groups="local::infrastructure"/>
+  <project name="oddsolutions/infrastructure/webssh" path="oddsolutions/webssh" remote="gl-ssh" revision="bc93ccd863326585ac1c8dd2c6048c66ace964cb" upstream="master" dest-branch="master" groups="local::infrastructure"/>
+  <project name="oddsolutions/oddsolutions.github.io" path="oddsolutions/blog" remote="private" revision="6bac4d931bc4b0bf2e35e6daf301b0f969934292" upstream="master" dest-branch="master" groups="local::infrastructure"/>
+</manifest>

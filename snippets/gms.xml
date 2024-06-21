@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <!-- Remotes -->
+  <remote fetch="ssh://git@gitlab.com:22/" name="gl-ssh" />
+  <remote fetch="ssh://git@gitlab.incom.co:22/" name="gl-incom-ssh" />
+
+  <project name="oddsolutions-gms/proprietary_vendor_partner_gms" path="vendor/partner_gms" remote="gl-incom-ssh" revision="9d391909cc2f64847f80b52e8d472a961f7cd0f0" upstream="refs/heads/lineage-21.0" dest-branch="refs/heads/lineage-21.0" groups="local::gms"/>
+  <project name="oddsolutions-gms/proprietary_vendor_partner_gms-gtv" path="vendor/partner_gms-gtv" remote="gl-incom-ssh" revision="4a2aa28671524721f59554fe98d484b796874d52" upstream="refs/heads/lineage-21.0" dest-branch="refs/heads/lineage-21.0" groups="local::gms"/>
+  <project name="oddsolutions-gms/proprietary_vendor_partner_gms-tv" path="vendor/partner_gms-tv" remote="gl-incom-ssh" revision="d32e15f01cf09bcc8865c13518b3080a6906ccaf" upstream="refs/heads/lineage-21.0" dest-branch="refs/heads/lineage-21.0" groups="local::gms"/>
+</manifest>

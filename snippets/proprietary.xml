@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="oddsolutions/proprietary/proprietary_vendor_certs" path="vendor/lineage-priv/keys" remote="gl-ssh" revision="579e9cc974e65d7b40954a5d8f71937a5ebf40ec" upstream="master" dest-branch="master" groups="local::proprietary"/>
+</manifest>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="Luk1337/ih8sn" path="external/ih8sn" remote="private" revision="882b1e71d2e4cdea144e1a6b6c361cf309e8c39b" upstream="master" dest-branch="master" groups="local::additions"/>
+  <project name="MindTheGapps/vendor_gapps_tv" path="vendor/gapps_tv" remote="gl-ssh" revision="96edc5657f3e788b2ac9b6a527c590bf2361032d" upstream="upsilon" dest-branch="upsilon" groups="local::additions"/>
+  <project name="oddsolutions/android/android_vendor_extra" path="vendor/extra" remote="gl-ssh" revision="ac1d98a1bd589dc67ff27df0c8598cc418134e5f" upstream="refs/heads/lineage-21.0" dest-branch="refs/heads/lineage-21.0" groups="local::additions"/>
+  <project name="oddsolutions/android/proprietary_vendor_google_pixel" path="vendor/google_pixel" remote="gl-ssh" revision="2062bf17d8197bc26c34c3dfb8570c476707f509" upstream="refs/heads/lineage-21.0" dest-branch="refs/heads/lineage-21.0" groups="local::additions"/>
+</manifest>
