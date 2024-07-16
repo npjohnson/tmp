@@ -9,6 +9,7 @@
   <project name="oddsolutions-gms/proprietary_vendor_partner_gms-gtv" path="vendor/partner_gms-gtv" remote="gl-incom-ssh" />
   <project name="oddsolutions-gms/proprietary_vendor_partner_gms-tv" path="vendor/partner_gms-tv" remote="gl-incom-ssh" />
   <project name="oddsolutions-gms/proprietary_vendor_partner_modules" path="vendor/partner_modules" remote="gl-incom-ssh" />
+  <project name="MindTheGapps/vendor_gapps_tv" path="vendor/gapps_tv" remote="gl-ssh" revision="d1d699f2055452a5a10f56bd178d285ec30fb17a" upstream="upsilon" dest-branch="upsilon" groups="local::additions"/>
   <!-- Certs -->
   <project name="oddsolutions/proprietary/proprietary_vendor_certs" path="vendor/lineage-priv/keys" remote="gl-ssh" branch="master" revision="579e9cc974e65d7b40954a5d8f71937a5ebf40ec" />
 </manifest>
