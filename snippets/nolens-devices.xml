@@ -21,7 +21,6 @@
   <project name="LineageOS/android_device_lge_us997" path="device/lge/us997" revision="deed2e1c78329e1c51ac678cab6c9459f54a2da3" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
   <project name="LineageOS/android_device_lge_v20-common" path="device/lge/v20-common" revision="5bc40e52c0792d4d363a0c6cd91616bbda3db837" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
   <project name="LineageOS/android_device_lge_vs995" path="device/lge/vs995" revision="0089f2e8abb2b45d4da164be155a1750c7739b6f" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
-  <project name="LineageOS/android_device_motorola_messi" path="device/motorola/messi" revision="7c749cf01f1f79e312595f3b15caa54fe97183f1" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
   <project name="LineageOS/android_device_motorola_msm8998-common" path="device/motorola/msm8998-common" revision="fa9d38aeb016b5e1d992d759324840e54fb55b53" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
   <project name="LineageOS/android_device_motorola_nash" path="device/motorola/nash" revision="0ed0bd80da613c2d66571b0ddcca09cc05acc22a" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
   <project name="LineageOS/android_device_motorola_payton" path="device/motorola/payton" revision="0615ddfb397e6c64384e047d75d939497a50b234" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
