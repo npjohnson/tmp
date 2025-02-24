@@ -26,7 +26,7 @@
   <project name="LineageOS/android_device_motorola_payton" path="device/motorola/payton" revision="0615ddfb397e6c64384e047d75d939497a50b234" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
 
   <!-- Kernel -->
-  <project name="LineageOS/android_kernel_lge_msm8996" path="kernel/lge/msm8996" revision="7e11fbccc75f65a629ae4c19d2816cf199daf0b7" upstream="backups/20240723-1439/lineage-21" dest-branch="20240723-1439/lineage-21" groups="local::devices"/>
+  <project name="LineageOS/android_kernel_lge_msm8996" path="kernel/lge/msm8996" revision="7e11fbccc75f65a629ae4c19d2816cf199daf0b7" upstream="backups/20240723-1439/lineage-21" dest-branch="backups/20240723-1439/lineage-21" groups="local::devices"/>
   <project name="LineageOS/android_kernel_motorola_msm8998" path="kernel/motorola/msm8998" revision="7d4a497d28ecefbe8c4b5fb237e46bdadc69060c" upstream="lineage-21" dest-branch="lineage-21" groups="local::devices"/>
 
   <!-- Vendor -->
